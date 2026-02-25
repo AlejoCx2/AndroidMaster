@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--IMC App -->
+    <color name="background">#D3C3B9</color>
+    <color name="component">#B58863</color>
+    <color name="selected_component">#9B6C4A</color>
+    <color name="primary">#161616</color>
+    <color name="titles">#3E3D3D</color>
+    <color name="accent">#A79E9C</color>
+    <color name="button">#3D4D55</color>
+    <color name="secondary">#10232a</color>
+
+    <color name="peso_bajo">#E2D262</color>
+    <color name="peso_normal">#3A683C</color>
+    <color name="sobrepeso">#A24730</color>
+    <color name="obesidad">#781B1B</color>
+
+    <!--TodoApp-->
+    <color name="todo_background_card">#FF081A4A</color>
+    <color name="todo_background_disabled">#787878</color>
+    <color name="todo_background_todo_app">#FF2D4993</color>
+    <color name="todo_subtitle_text">#959595</color>
+    <color name="todo_accent">#E91E63</color>
+
+    <color name="todo_business_category">#FF9800</color>
+    <color name="todo_personal_category">#00BCD4</color>
+    <color name="todo_other_category">#4CAF50</color>
+
+</resources>
