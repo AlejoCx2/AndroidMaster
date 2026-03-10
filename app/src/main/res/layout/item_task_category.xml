@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="160dp"
     android:layout_height="90dp"
+    android:id="@+id/viewContainer"
     app:cardBackgroundColor="@color/todo_background_card"
     app:cardCornerRadius="16dp"
     android:layout_marginHorizontal="8dp"
